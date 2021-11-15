@@ -1,0 +1,8 @@
+ul.topButtons {
+    list-style: none;
+}
+
+a.customButtons {
+    display: block;
+    text-align: center;
+}
